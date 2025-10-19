@@ -14,4 +14,5 @@ Hardware Requirements
 Arduino Uno (or compatible board)
 USB cable for serial connection
 Servo motors( gesture-based control)
-![Hand gesture replication](image.png)
+
+![Hand gesture replication](robotic_hand.png.jpg)
